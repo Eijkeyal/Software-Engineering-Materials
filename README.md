@@ -57,3 +57,6 @@ Designing UML diagrams for various systems.
 Writing SRS documents and test cases.
 
 Analyzing and recommending suitable SDLC models for project scenarios.
+
+
+This repository is maintained as part of my academic journey in Computer Science
