@@ -43,3 +43,17 @@ Test Case Design
 Levels of Testing (Unit, Integration, System)
 
 Software Configuration Management & Maintenance
+
+
+🛠️ Practical Skills
+This repository demonstrates practical application through:
+
+Creating and interpreting Gantt Charts and WBS.
+
+Solving numerical problems for project estimation (FP, COCOMO).
+
+Designing UML diagrams for various systems.
+
+Writing SRS documents and test cases.
+
+Analyzing and recommending suitable SDLC models for project scenarios.
